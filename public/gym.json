@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 30,
+    "features": [
+      "Access to cardio area",
+      "Use of weightlifting equipment",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 50,
+    "features": [
+      "All Basic Plan features",
+      "Access to sauna and steam room",
+      "Personal trainer session once a month"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 80,
+    "features": [
+      "All Standard Plan features",
+      "Unlimited personal trainer sessions",
+      "Nutritional counseling"
+    ]
+  }
+]
